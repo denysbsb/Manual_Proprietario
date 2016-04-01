@@ -1,0 +1,27 @@
+body {
+    background-color: #FFFBD0;
+}
+
+h1 {
+    color: orange;
+    text-align: center;
+}
+.titulo{
+	margin-left: 30px;
+}
+.content{
+	background-color:lavenderblush;
+	margin: 0 10px 10px 10px;
+	padding: 20px;
+}
+.nuvens{
+	background-image:url('../imagens/nuvens.jpg');
+	height: 20px;
+	margin: 0 10px 10px 10px;
+	padding: 20px;
+}
+
+p {
+    font-family: "Times New Roman";
+    font-size: 20px;
+}
